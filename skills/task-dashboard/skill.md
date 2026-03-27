@@ -18,12 +18,12 @@ description: "扫描活跃项目提取任务并按紧急度排序。触发词：
 ## 执行
 
 ```bash
-python3 ~/.claude/skills/task-dashboard/scripts/scan_tasks.py --vault /Users/bit/Obsidian
+python3 ~/.claude/skills/task-dashboard/scripts/scan_tasks.py --vault ~/Obsidian
 ```
 
 JSON 输出（供程序消费）：
 ```bash
-python3 ~/.claude/skills/task-dashboard/scripts/scan_tasks.py --vault /Users/bit/Obsidian --json
+python3 ~/.claude/skills/task-dashboard/scripts/scan_tasks.py --vault ~/Obsidian --json
 ```
 
 ## 工作流程

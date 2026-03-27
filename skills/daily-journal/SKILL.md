@@ -18,7 +18,7 @@ description: Use when user wants to record tasks to daily journal, write daily r
 ## 配置
 
 ```yaml
-journal_path: /Users/bit/Obsidian/500_Journal/Daily
+journal_path: ~/Obsidian/500_Journal/Daily
 date_format: YYYY-MM-DD
 filename_pattern: "{date}.md"
 ```
@@ -142,7 +142,7 @@ up: "[[500_Journal/Daily/]]"
 ```
 用户: 记录此任务到今日日记
 Claude: [检查日记 → 追加任务记录]
-输出: 已追加到 /Users/bit/Obsidian/500_Journal/Daily/2026-01-19.md
+输出: 已追加到 ~/Obsidian/500_Journal/Daily/2026-01-19.md
 ```
 
 ### 示例 2：创建新日记并记录

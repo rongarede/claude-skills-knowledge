@@ -133,7 +133,7 @@ CHANGELOG（任务完成后强制追加）：
 
 ```bash
 bash ~/.claude/skills/changelog/scripts/append-changelog.sh \
-  "/Users/bit/projects/myapp" \
+  "/path/to/myapp" \
   "实现用户登录功能" \
   "添加 login API,集成 JWT 认证,前端表单验证" \
   "src/api/auth.ts,src/components/LoginForm.tsx" \

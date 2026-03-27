@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 # ==================== 配置 ====================
-DEFAULT_VAULT = "/Users/bit/Obsidian"
+DEFAULT_VAULT = str(Path.home() / "Obsidian")
 ACTIVE_DIR = "100_Projects/Active"
 TODAY = datetime.now().date()
 

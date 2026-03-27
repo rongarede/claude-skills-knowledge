@@ -18,8 +18,8 @@ description: Use when user wants to fetch RSS feeds, get today's news, or mentio
 ## 配置
 
 ```yaml
-script_path: /Users/bit/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/Reeder/opml_parser.py
-output_dir: /Users/bit/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/Reeder
+script_path: ~/Reeder/opml_parser.py
+output_dir: ~/Reeder
 opml_file: Reeder.opml
 proxy: http://127.0.0.1:7897
 ```
