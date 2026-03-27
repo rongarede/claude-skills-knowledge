@@ -1,6 +1,6 @@
 # Claude Skills: Knowledge
 
-A collection of 11 Claude Code skills for Obsidian, daily journaling, task management, and knowledge systems.
+A collection of 7 Claude Code skills for daily journaling, task management, and knowledge systems.
 
 ## Skills
 
@@ -9,10 +9,6 @@ A collection of 11 Claude Code skills for Obsidian, daily journaling, task manag
 | `bug-record` | Record bug fixes to bugs.jsonl |
 | `changelog` | Auto-generate daily changelogs (post-commit hook) |
 | `daily-journal` | Daily journal generation and task recording |
-| `diagram-indexer` | Incremental indexing for Mermaid/Canvas diagrams |
-| `json-canvas` | Create and edit JSON Canvas (.canvas) files |
-| `obsidian-bases` | Obsidian Bases database view operations |
-| `obsidian-markdown` | Obsidian-flavored Markdown (wikilinks, callouts, properties) |
 | `plan-writing` | Plan document formatting standards |
 | `task-checkpoint` | Auto-update plan + TODO + commit on task completion |
 | `task-dashboard` | Scan active projects, extract and rank tasks by urgency |
