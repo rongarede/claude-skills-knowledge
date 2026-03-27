@@ -1,6 +1,6 @@
 # Claude Skills: Knowledge
 
-A collection of 7 Claude Code skills for daily journaling, task management, and knowledge systems.
+A collection of 6 Claude Code skills for daily journaling, task management, and knowledge systems.
 
 ## Skills
 
@@ -9,7 +9,6 @@ A collection of 7 Claude Code skills for daily journaling, task management, and 
 | `bug-record` | Record bug fixes to bugs.jsonl |
 | `changelog` | Auto-generate daily changelogs (post-commit hook) |
 | `daily-journal` | Daily journal generation and task recording |
-| `plan-writing` | Plan document formatting standards |
 | `task-checkpoint` | Auto-update plan + TODO + commit on task completion |
 | `task-dashboard` | Scan active projects, extract and rank tasks by urgency |
 | `task-sync-obsidian` | Sync completed tasks to Obsidian project pages |
