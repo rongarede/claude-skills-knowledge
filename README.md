@@ -25,7 +25,7 @@ A collection of 15 Claude Code skills for Obsidian, daily journaling, task manag
 ## Install
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/claude-skills-knowledge.git ~/.claude/skills-repos/knowledge
+git clone https://github.com/rongarede/claude-skills-knowledge.git ~/.claude/skills-repos/knowledge
 cd ~/.claude/skills-repos/knowledge && bash install.sh
 ```
 
